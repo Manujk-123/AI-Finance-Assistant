@@ -1,4 +1,4 @@
-# AI Personal Finance Manager (Full Production)
+# AI-Finance-Assistant (Full Production)
 
 Features:
 - SMS parsing, transaction extraction
@@ -19,3 +19,10 @@ Quickstart:
    - uvicorn app.main:app --reload --port 8000
 
 See `deployment/` for Docker config.
+
+## Swagger Docs
+![]("assets/AIscreenshot-1.png")
+![]("assets/AIscreenshot-2.png")
+![]("assets/AIscreenshot-3.png")
+
+
