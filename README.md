@@ -21,8 +21,9 @@ Quickstart:
 See `deployment/` for Docker config.
 
 ## Swagger Docs
-![]("assets/AIscreenshot-1.png")
+![]("C:\Users\Manu\Pictures\AI\backend\assets\AIscreenshot-1.png")
 ![]("assets/AIscreenshot-2.png")
 ![]("assets/AIscreenshot-3.png")
+
 
 
