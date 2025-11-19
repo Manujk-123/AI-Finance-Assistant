@@ -1,0 +1,19 @@
+{
+  "0": "Balance Update",
+  "1": "ATM Withdrawal",
+  "2": "UPI Payment",
+  "3": "Card Debit",
+  "4": "Card Credit",
+  "5": "Bank Transfer Debit",
+  "6": "Bank Transfer Credit",
+  "7": "Loan EMI Payment",
+  "8": "Salary Credit",
+  "9": "Bill Payment",
+  "10": "Subscription / Auto-Debit",
+  "11": "Online Purchase",
+  "12": "Cash Deposit",
+  "13": "Reward / Cashback",
+  "14": "Interest Credit",
+  "15": "Failed Transaction",
+  "16": "Other"
+}

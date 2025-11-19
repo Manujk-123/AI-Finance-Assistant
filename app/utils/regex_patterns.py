@@ -1,0 +1,5 @@
+AMOUNT_RE = r"\b\d+(\.\d{1,2})?\b"
+DATE_RE = r"\d{2}/\d{2}/\d{4}"
+UPI_RE = r"\bupi\b"
+DEBIT_RE = r"\bdebited\b"
+CREDIT_RE = r"\bcredited\b"
