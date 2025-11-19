@@ -1,4 +1,4 @@
-# AI-Finance-Assistant (Full Production)
+# AI-Finance-Assistant
 
 Features:
 - SMS parsing, transaction extraction
@@ -20,10 +20,8 @@ Quickstart:
 
 See `deployment/` for Docker config.
 
-## Swagger Docs
-![]("assets/AIscreenshot-1.png")
-![]("assets/AIscreenshot-2.png")
-![]("assets/AIscreenshot-3.png")
+
+
 
 
 
